@@ -1,0 +1,22 @@
+.margin-bottom {
+  margin-bottom: 2em;
+}
+
+
+.product-list .card-body {
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: cover;
+}
+.product-list .card-content {
+	background: white;
+	padding: 7px;
+	margin: 5px;
+	text-align: center;
+}
+
+
+.p-4 h1.title {
+	margin-top: 0.5em;
+	margin-bottom: 0;
+}

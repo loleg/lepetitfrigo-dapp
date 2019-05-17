@@ -6,7 +6,7 @@ Built with [Truffle 4](https://github.com/trufflesuite/truffle/releases) and [et
 
 Demo: [Screencast (YouTube)](https://youtu.be/ltgPG9JA2Nk)
 
-![Screenshot](Screenshot from 2019-05-17 19-46-24.jpg)
+![](Screenshot_2019-05-17_19-46-24.jpg)
 
 ## Development
 

@@ -4,6 +4,10 @@ This repository contains an **experimental** Dapp quickly created during the [Ag
 
 Built with [Truffle 4](https://github.com/trufflesuite/truffle/releases) and [eth-vue](https://github.com/DOkwufulueze/eth-vue), it consists of a [Vue.js](https://github.com/vuejs) frontend with smart contracts written in [Solidity](https://solidity.readthedocs.io/), which can be deployed to an Ethereum blockchain. In development, [Ganache](https://github.com/trufflesuite/ganache), [Remix IDE](http://remix.ethereum.org) and truffle-cli were used.
 
+Demo: [Screencast (YouTube)](https://youtu.be/ltgPG9JA2Nk)
+
+![Screenshot](Screenshot from 2019-05-17 19-46-24.jpg)
+
 ## Development
 
 After cloning this project locally, install [Ganache](https://github.com/trufflesuite/ganache) or set up another blockchain for development purposes.
